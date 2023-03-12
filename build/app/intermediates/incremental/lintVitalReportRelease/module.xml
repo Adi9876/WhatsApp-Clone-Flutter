@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\Flutter folder\whats_clone\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="D:\Flutter folder\whats_clone\build\app"
+    bootClassPath="D:\Android_sdk\platforms\android-33\android.jar;D:\Android_sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

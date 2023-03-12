@@ -1,0 +1,4 @@
+#Sun Mar 12 17:41:19 IST 2023
+base.0=D\:\\Flutter folder\\whats_clone\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
